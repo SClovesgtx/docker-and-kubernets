@@ -1,0 +1,9 @@
+.myenv/
+__pycache__/
+.ipynb_checkpoints/
+*.joblib
+*.h5
+imgs/
+*.npy
+*.pickle
+*.json
